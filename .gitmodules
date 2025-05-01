@@ -1,0 +1,3 @@
+[submodule "libs/shared-code"]
+	path = libs/shared-code
+	url = https://github.com/KARTHICKKUMAR-P/shared-code-lib.git
